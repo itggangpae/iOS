@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  EditTable
+//  NaviWeb
 //
 //  Created by Adam on 2021/04/23.
 //
